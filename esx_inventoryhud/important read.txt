@@ -1,0 +1,5 @@
+IMPORTANT!
+!!!![Before you launch the server after installing this version of esx_inventoryhud IMPORT the .sql into your database otherwise it will not work]!!!!
+You will have to manually set all the prices for the items that you want to sell in the database otherwise they will go for free!
+
+https://www.youtube.com/watch?v=hE4b8EmLlvA&t=1s
